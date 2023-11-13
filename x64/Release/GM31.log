@@ -1,0 +1,121 @@
+﻿  compilation object save succeeded; see C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\shader\unlitTexturePS.cso
+  compilation object save succeeded; see C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\shader\unlitTextureVS.cso
+  compilation object save succeeded; see C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\shader\vertexLightingPS.cso
+  compilation object save succeeded; see C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\shader\vertexLightingVS.cso
+  audio.cpp
+  bill1.cpp
+  bill2.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\bill2.cpp(11,36): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  box.cpp
+  breakheri.cpp
+  bullet.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\bullet.cpp(159,43): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  bulletNumber.cpp
+  bulletUI.cpp
+  camera.cpp
+  clearLogo.cpp
+  crushing.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.h(16,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.h(17,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.cpp(127,39): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.cpp(127,36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.cpp(132,47): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.cpp(132,38): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.cpp(137,40): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.cpp(137,36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.cpp(142,47): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.cpp(142,37): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  cylinder.cpp
+  cyutoriaru.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\cyutoriaru.cpp(111,38): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\cyutoriaru.cpp(111,35): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\cyutoriaru.cpp(116,46): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\cyutoriaru.cpp(121,35): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  enemy.cpp
+  enemybullet.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(16,16): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(18,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(32,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\enemybullet.cpp(74,23): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\enemybullet.cpp(157,43): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  enemydethState.cpp
+  enemyGage.cpp
+  explosion.cpp
+  fade.cpp
+  field.cpp
+  コンパイル中...
+  game.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.h(16,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.h(17,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(16,16): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(18,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(32,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.h(16,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crushing.h(17,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  gameclear.cpp
+  gameover.cpp
+  HPbottom.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.h(16,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.h(17,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.cpp(127,39): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.cpp(127,36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.cpp(132,47): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.cpp(132,38): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.cpp(137,40): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.cpp(137,36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.cpp(142,47): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\HPbottom.cpp(142,37): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  input.cpp
+  loading.cpp
+  main.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\main.cpp(380,49): warning C4244: 'return': 'LONG' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\main.cpp(381,49): warning C4244: 'return': 'LONG' から 'float' への変換です。データが失われる可能性があります。
+  manager.cpp
+  model.cpp
+  player.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(16,16): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(18,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(32,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\player.cpp(229,43): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  playergun.cpp
+  playerHPGage.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(16,16): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(18,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.h(32,14): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.cpp(67,12): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.cpp(152,39): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.cpp(152,36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.cpp(157,47): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.cpp(157,38): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.cpp(162,40): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.cpp(162,36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.cpp(167,47): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\playerHPGage.cpp(167,37): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  polygon2D.cpp
+  renderer.cpp
+  result.cpp
+  crossHear.cpp
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crossHear.cpp(79,7): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crossHear.cpp(80,7): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crossHear.cpp(149,39): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crossHear.cpp(149,36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crossHear.cpp(154,47): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\crossHear.cpp(159,36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  resultLogo.cpp
+  score.cpp
+  shadow.cpp
+  sky.cpp
+  コンパイル中...
+  sprite.cpp
+  title.cpp
+  titlebutton.cpp
+  titleLogo.cpp
+  house.cpp
+  tree.cpp
+  wall.cpp
+  コード生成しています。
+  912 of 923 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    29 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  GM31.vcxproj -> C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\x64\Release\GM31.exe

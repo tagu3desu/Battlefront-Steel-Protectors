@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\kousu\Desktop\作品集\GM31_戦車ゲーム最終版\GM31\x64\Debug\GM31.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\kousu\Desktop\作品集\GM31_戦車ゲーム最終版\GM31\shader\unlitTexturePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\kousu\Desktop\作品集\GM31_戦車ゲーム最終版\GM31\shader\unlitTextureVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\kousu\Desktop\作品集\GM31_戦車ゲーム最終版\GM31\shader\vertexLightingPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\kousu\Desktop\作品集\GM31_戦車ゲーム最終版\GM31\shader\vertexLightingVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

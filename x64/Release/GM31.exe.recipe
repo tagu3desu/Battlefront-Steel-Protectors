@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\x64\Release\GM31.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\shader\unlitTexturePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\shader\unlitTextureVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\shader\vertexLightingPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\kousu\OneDrive\デスクトップ\GM31\GM31\shader\vertexLightingVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
